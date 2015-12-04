@@ -12,7 +12,7 @@ Feature-based 3D pose estimation on planar target
 
 4. homography decomposition: estimate the final pose
 
-### Related Publication
+### References
 
 [1] D. G. Lowe. Distinctive image features from scale-invariant keypoints. IJCV, 60(2), 2004.
 
